@@ -1,2 +1,2 @@
-# PaystarFinancial_Utils
-Paystar Financial Automation Scripts and Utilities for Notifications and Whatsapp, etc..
+# Quzzie-Dev
+An AI Enabled Quiz App for developers
